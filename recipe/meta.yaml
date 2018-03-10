@@ -29,12 +29,16 @@ requirements:
     - r-base64enc
     - r-htmlwidgets >=0.3.2
     - r-jsonlite
+    - r-igraph
+    - r-crosstalk
   run:
     - r-base
     - r-matrix
     - r-base64enc
     - r-htmlwidgets >=0.3.2
     - r-jsonlite
+    - r-igraph
+    - r-crosstalk
 
 test:
   commands:
@@ -52,3 +56,5 @@ extra:
   recipe-maintainers:
     - johanneskoester
     - bgruening
+    - daler
+    - jdblischak
