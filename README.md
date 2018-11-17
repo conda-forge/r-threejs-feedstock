@@ -14,9 +14,8 @@ Summary: Create interactive 3D scatter plots, network plots, and globes using th
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-threejs-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-threejs-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-threejs-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-threejs-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-threejs-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-threejs-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-threejs-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-threejs-feedstock)
 
 Current release info
 ====================
