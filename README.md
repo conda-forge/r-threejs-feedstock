@@ -1,11 +1,11 @@
-About r-threejs
-===============
+About r-threejs-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-threejs-feedstock/blob/main/LICENSE.txt)
 
 Home: https://bwlewis.github.io/rthreejs
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-threejs-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create interactive 3D scatter plots, network plots, and globes using the 'three.js' visualization library (<https://threejs.org>).
 
